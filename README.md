@@ -33,7 +33,8 @@ ADHD is a neurodevelopmental disorder that affects both children and adults. It 
 2. Prompt Generation: The system generates learning prompts based on the input provided.
 3. Interactive Learning: Students engage with the prompts through interactive learning activities.
 4. Feedback and Progress Tracking: The system tracks the student's progress and provides feedback for improvement.
-#TIPS:THE PLUGINS ARE NEEDED(But not necessary)
+
+TIPS:THE PLUGINS ARE NEEDED(But not necessary)
 ## Getting Started
 
 To get started with the GPT_ADHDer Learning Prompt project, follow these steps:

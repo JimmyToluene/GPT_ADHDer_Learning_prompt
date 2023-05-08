@@ -3,6 +3,7 @@
 ![ADHD Learning](https://1000logos.net/wp-content/uploads/2023/02/ChatGPT-Logo.png) <!-- Replace this URL with the actual image URL -->
 
 <details>
+
 <summary>English</summary>
 
 Welcome to the GPT_ADHDer Learning Prompt project! This project is designed to provide learning prompts specifically tailored for students with Attention Deficit Hyperactivity Disorder (ADHD). Our goal is to enhance the learning experience and improve the abilities of ADHD students.
@@ -32,7 +33,7 @@ ADHD is a neurodevelopmental disorder that affects both children and adults. It 
 2. Prompt Generation: The system generates learning prompts based on the input provided.
 3. Interactive Learning: Students engage with the prompts through interactive learning activities.
 4. Feedback and Progress Tracking: The system tracks the student's progress and provides feedback for improvement.
-
+#TIPS:THE PLUGINS ARE NEEDED(But not necessary)
 ## Getting Started
 
 To get started with the GPT_ADHDer Learning Prompt project, follow these steps:

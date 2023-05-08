@@ -1,6 +1,6 @@
 # GPT_ADHDer Learning Prompt
 
-![ADHD Learning](https://example.com/adhd-learning-image.jpg) <!-- Replace this URL with the actual image URL -->
+![ADHD Learning](https://1000logos.net/wp-content/uploads/2023/02/ChatGPT-Logo.png) <!-- Replace this URL with the actual image URL -->
 
 <details>
 <summary>English</summary>
@@ -55,11 +55,10 @@ This project is licensed under the [MIT License](LICENSE). See the LICENSE file 
 <details>
 <summary>中文</summary>
 
-# GPT_ADHDer 学习提示
+# GPT_ADHDer_Prompt
 
-![ADHD 学习](https://example.com/adhd-learning-image.jpg) <!-- 请替换此 URL 为实际图片链接 -->
 
-欢迎来到 GPT_ADHDer 学习提示项目！这个项目旨在为患有注意力缺陷多动障碍（ADHD）的学生提供量身定制的学习提示。我们的目标是提升 ADHD 学生的学习体验，并提高他们的能力。
+欢迎来到 GPT_ADHDer 学习Prompt项目！这个项目旨在为患有注意力缺陷多动障碍（ADHD）的学生提供量身定制的学习提示。我们的目标是提升 ADHD 学生的学习体验，并提高他们的能力。
 
 ## 目录
 

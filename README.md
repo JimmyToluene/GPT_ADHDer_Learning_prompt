@@ -1,3 +1,60 @@
+# GPT_ADHDer Learning Prompt
+
+![ADHD Learning](https://example.com/adhd-learning-image.jpg) <!-- Replace this URL with the actual image URL -->
+
+<details>
+<summary>English</summary>
+
+Welcome to the GPT_ADHDer Learning Prompt project! This project is designed to provide learning prompts specifically tailored for students with Attention Deficit Hyperactivity Disorder (ADHD). Our goal is to enhance the learning experience and improve the abilities of ADHD students.
+
+## Table of Contents
+
+- Introduction
+- Features
+- How It Works
+- Getting Started
+- Contributing
+- License
+
+## Introduction
+
+ADHD is a neurodevelopmental disorder that affects both children and adults. It is characterized by symptoms such as inattention, hyperactivity, and impulsivity. These symptoms can create challenges in the learning environment. The GPT_ADHDer Learning Prompt project aims to address these challenges by providing customized learning prompts that cater to the unique needs of ADHD students.
+
+## Features
+
+- Personalized Prompts: Generate learning prompts that are personalized to the individual needs and preferences of ADHD students.
+- Interactive Learning: Engage students in interactive learning activities that help improve focus and attention.
+- Progress Tracking: Monitor the progress of students over time and provide feedback to enhance their learning experience.
+
+## How It Works
+
+1. Input: Students or educators provide input on the student's learning preferences and areas of interest.
+2. Prompt Generation: The system generates learning prompts based on the input provided.
+3. Interactive Learning: Students engage with the prompts through interactive learning activities.
+4. Feedback and Progress Tracking: The system tracks the student's progress and provides feedback for improvement.
+
+## Getting Started
+
+To get started with the GPT_ADHDer Learning Prompt project, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/username/GPT_ADHDer_Learning_prompt.git` <!-- Replace 'username' with the actual GitHub username -->
+2. Navigate to the project directory: `cd GPT_ADHDer_Learning_prompt`
+3. Follow the instructions in the [installation guide](INSTALLATION.md) to set up the project.
+4. Start using the GPT_ADHDer Learning Prompt to enhance the learning experience of ADHD students!
+
+## Contributing
+
+We welcome contributions from the community! If you're interested in contributing to the GPT_ADHDer Learning Prompt project, please read our [contributing guidelines](CONTRIBUTING.md) for more information.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). See the LICENSE file for more details.
+
+</details>
+
+<details>
+<summary>中文</summary>
+
 # GPT_ADHDer 学习提示
 
 ![ADHD 学习](https://example.com/adhd-learning-image.jpg) <!-- 请替换此 URL 为实际图片链接 -->
@@ -41,4 +98,9 @@ ADHD 是一种影响儿童和成人的神经发育障碍，其特征包括注意
 
 ## 贡献
 
-我们欢迎社区的贡献！如果您有兴趣为 GPT_ADHDer 学习提示项目做出贡献，请阅读我们的
+我们欢迎社区的贡献！如果您有兴趣为 GPT_ADHDer 学习提示项目做出贡献，请阅读我们贡献指南以获取更多信息。
+
+## 许可证
+本项目根据[MIT License](LICENSE)许可证 授权。有关详细信息，请参阅 LICENSE 文件。
+
+</details>

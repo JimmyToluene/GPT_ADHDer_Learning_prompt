@@ -1,2 +1,37 @@
-# GPT_ADHDer_Learning_prompt
-It is a prompt used for ADHD students to improve to their abilities
+GPT_ADHDer 学习Prompt
+
+欢迎来到 GPT_ADHDer 学习提示项目！这个项目旨在为患有注意力缺陷多动障碍（ADHD）的学生提供量身定制的学习提示。我们的目标是提升 ADHD 学生的学习体验，并提高他们的能力。
+
+目录
+简介
+特点
+工作原理
+入门指南
+贡献
+许可证
+简介
+ADHD 是一种影响儿童和成人的神经发育障碍，其特征包括注意力不集中、多动和冲动。这些症状会在学习环境中带来挑战。GPT_ADHDer 学习提示项目旨在通过提供针对 ADHD 学生独特需求的定制化学习提示来解决这些挑战。
+
+特点:
+个性化提示：根据 ADHD 学生的个人需求和偏好生成学习提示。
+互动学习：让学生参与互动学习活动，提高注意力和专注力。
+进度跟踪：随时监控学生的进度，并提供反馈以提升学习体验。
+工作原理
+输入：学生或教育工作者提供有关学生学习偏好和兴趣领域的输入。
+提示生成：系统根据提供的输入生成学习提示。
+互动学习：学生通过互动学习活动参与提示。
+反馈和进度跟踪：系统跟踪学生的进度并提供改进反馈。
+入门指南
+要开始使用 GPT_ADHDer 学习提示项目，请按照以下步骤操作：
+
+克隆仓库：git clone https://github.com/JimmyToluene/GPT_ADHDer_Learning_prompt.git <!-- 请替换 'username' 为实际 GitHub 用户名 -->
+导航到项目目录：cd GPT_ADHDer_Learning_prompt
+按照安装指南中的说明设置项目。
+开始使用 GPT_ADHDer 学习提示来提升 ADHD 学生的学习体验！
+贡献
+我们欢迎社区的贡献！如果您有兴趣为 GPT_ADHDer 学习提示项目做出贡献，请阅读我们的[贡
+
+献指南](CONTRIBUTING.md)以获取更多信息。
+
+许可证
+本项目根据 MIT 许可证 授权。有关详细信息，请参阅 LICENSE 文件。

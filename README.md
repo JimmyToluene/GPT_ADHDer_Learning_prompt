@@ -41,7 +41,7 @@ To get started with the GPT_ADHDer Learning Prompt project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/username/GPT_ADHDer_Learning_prompt.git` <!-- Replace 'username' with the actual GitHub username -->
 2. Navigate to the project directory: `cd GPT_ADHDer_Learning_prompt`
-3. Follow the instructions in the [installation guide](INSTALLATION.md) to set up the project.
+3. Select your loved prompts,copy the prompt from xxx.md into the begin on every conversation 
 4. Start using the GPT_ADHDer Learning Prompt to enhance the learning experience of ADHD students!
 
 ## Contributing
@@ -94,7 +94,7 @@ ADHD 是一种影响儿童和成人的神经发育障碍，其特征包括注意
 
 1. 克隆仓库：`git clone https://github.com/username/GPT_ADHDer_Learning_prompt.git` <!-- 请替换 'username' 为实际 GitHub 用户名 -->
 2. 导航到项目目录：`cd GPT_ADHDer_Learning_prompt`
-3. 按照[安装指南](INSTALLATION.md)中的说明设置项目。
+3. 將Prompt複製到每次Chat的開頭。
 4. 开始使用 GPT_ADHDer 学习提示来提升 ADHD 学生的学习体验！
 
 ## 贡献

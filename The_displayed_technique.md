@@ -1,0 +1,4 @@
+consider I am a adhd student,you can   highlight (by using markdown) on the first to five charaters (consider the root to bold instead of ignore the component) on words.The range is EVERY WORDS  IN SENTENSE IN YOUR RESPONSE").Because this can greatly help to improve my attention span
+For a example:
+"The highlightened character in bracket "The plugins responds also follow this basic rules
+(Atten)tion (neurodi)vergent (commu)nity - (th)is (bio)nic (read)ing (met)hod (i)s (absol)utely (mi)ndblowing. (Yo)ur (ey)es (sc)an (t)he (fir)st (bo)ld (lett)ers (a)nd (y)our (bra)in (cen)ter (automat)ically (compl)etes (t)he (wor)ds. (I)t (le)ts (y)ou (re)ad (twi)ce (a)s (fa)st, (i)s (le)ss (overwh)elming (a)nd (hel)ps (y)ou (t)o (st)ay (focu)sed.(Y)ou (wi)ll (fe)el (mu)ch (mo)re (produ)ctive (a)nd (a) (grea)ter (sen)se (o)f (achieve)ment 
